@@ -1,0 +1,1 @@
+This lesson will help me understand how git works
